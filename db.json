@@ -1,0 +1,105 @@
+{
+  "cozinheira": [
+    {
+      "id_usuario": 1,
+      "nome": "Maria das Receitas",
+      "email": "maria@example.com",
+      "senha": "senha123"
+    }
+  ],
+  "pratos": [
+  {
+     "id_prato": 100,
+    "dia": "2025-06-29T00:00:00.000-03:00",
+    "turno": "tarde",
+    "principal": "feijoada, arroz, farofa, couve",
+    "sobremesa": "laranja",
+    "bebida": "suco de laranja",
+    "imagem": "https://t3.ftcdn.net/jpg/05/10/26/64/240_F_510266490_TDUQ0BozChlZR2PYYZBYVjitIG56fwcI.jpg",
+    "id_usuario": 1
+  },
+  {
+     "id_prato": 101,
+    "dia": "2025-06-30T00:00:00.000-03:00",
+    "turno": "manhã",
+    "principal": "feijoada, arroz, farofa, couve",
+    "sobremesa": "laranja",
+    "bebida": "suco de laranja",
+    "imagem": "https://t3.ftcdn.net/jpg/05/10/26/64/240_F_510266490_TDUQ0BozChlZR2PYYZBYVjitIG56fwcI.jpg",
+    "id_usuario": 1
+  },
+  {
+     "id_prato": 102,
+    "dia": "2025-07-01T00:00:00.000-03:00",
+    "turno": "manhã",
+    "principal": "feijoada, arroz, farofa, couve",
+    "sobremesa": "laranja",
+    "bebida": "suco de laranja",
+    "imagem": "https://t3.ftcdn.net/jpg/05/10/26/64/240_F_510266490_TDUQ0BozChlZR2PYYZBYVjitIG56fwcI.jpg",
+    "id_usuario": 1
+  },
+  {
+     "id_prato": 103,
+    "dia": "2025-07-02T00:00:00.000-03:00",
+    "turno": "manhã",
+    "principal": "feijoada, arroz, farofa, couve",
+    "sobremesa": "laranja",
+    "bebida": "suco de laranja",
+    "imagem": "https://t3.ftcdn.net/jpg/05/10/26/64/240_F_510266490_TDUQ0BozChlZR2PYYZBYVjitIG56fwcI.jpg",
+    "id_usuario": 1
+  },
+  {
+     "id_prato": 104,
+    "dia": "2025-07-03T00:00:00.000-03:00",
+    "turno": "manhã",
+    "principal": "feijoada, arroz, farofa, couve",
+    "sobremesa": "laranja",
+    "bebida": "suco de laranja",
+    "imagem": "https://t3.ftcdn.net/jpg/05/10/26/64/240_F_510266490_TDUQ0BozChlZR2PYYZBYVjitIG56fwcI.jpg",
+    "id_usuario": 1
+  },
+  {
+     "id_prato": 105,
+    "dia": "2025-07-04T00:00:00.000-03:00",
+    "turno": "manhã",
+    "principal": "feijoada, arroz, farofa, couve",
+    "sobremesa": "laranja",
+    "bebida": "suco de laranja",
+    "imagem": "https://t3.ftcdn.net/jpg/05/10/26/64/240_F_510266490_TDUQ0BozChlZR2PYYZBYVjitIG56fwcI.jpg",
+    "id_usuario": 1
+  },
+    {
+     "id_prato": 106,
+    "dia": "2025-07-05T00:00:00.000-03:00",
+    "turno": "manhã",
+    "principal": "feijoada, arroz, farofa, couve",
+    "sobremesa": "laranja",
+    "bebida": "suco de laranja",
+    "imagem": "https://t3.ftcdn.net/jpg/05/10/26/64/240_F_510266490_TDUQ0BozChlZR2PYYZBYVjitIG56fwcI.jpg",
+    "id_usuario": 1
+  }
+],
+  "votacao": [
+  {
+    "id_voto": 1,
+    "id_prato": 101,
+    "voto": true,
+    "data_voto": "2025-06-29T00:00:00.000-03:00",
+    "ip_usuario": "192.168.0.1"
+  },
+  {
+    "id_voto": 2,
+    "id_prato": 101,
+    "voto": false,
+    "data_voto": "1925-06-29T00:00:00.000-03:00",
+    "ip_usuario": "192.168.0.2"
+  },
+  {
+    "id_voto": 3,
+    "id_prato": 102,
+    "voto": true,
+    "data_voto": "2025-06-29T00:00:00.000-03:00",
+    "ip_usuario": "192.168.0.3"
+  }
+]
+}
